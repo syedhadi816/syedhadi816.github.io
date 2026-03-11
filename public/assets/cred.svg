@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#161614"/>
+  <circle cx="400" cy="200" r="60" fill="none" stroke="#2a2a27" stroke-width="1"/>
+  <path d="M340 200 L400 140 L460 200 L430 280 L370 280 Z" fill="none" stroke="#c8a96e" stroke-width="2"/>
+  <text x="400" y="420" fill="#6b6760" font-family="monospace" font-size="16" text-anchor="middle">CReD Learning</text>
+</svg>
